@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Example Student Portfolio
+# Example Student Portfolio?
 
 This site is a simple portfolio template for students to showcase their work, 
 projects, and interests. It is built using Jekyll and hosted on GitHub Pages.
