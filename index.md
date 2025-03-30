@@ -19,7 +19,6 @@ project. Because it is on different branch, we've also set the pages to be built
 ``from-docs`` branch.  You can set these settings from the Github page for your
 repo, in the Settings tab, under the Pages section.
 
-
 # My Projects
 
 One of my favorite projects is a [simple dino jump game I
@@ -34,4 +33,3 @@ rosemary, and sea salt is incredibly satisfying. The result is a golden, fluffy
 bread that's perfect for sharing with friends or enjoying as a snack.
 
 # Posts
-
