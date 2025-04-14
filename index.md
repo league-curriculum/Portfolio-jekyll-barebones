@@ -1,8 +1,8 @@
 ---
 layout: home
+title: Student Portfolio
 ---
 
-# Example Student Portfolio
 
 Follow along online with our [Zoom Session for the Tuesday 1 April Class.](https://us02web.zoom.us/j/89801627815?pwd=50OLJZQrdI3hsAsckgiUSlKeWFncLl.1) 
 
