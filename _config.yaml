@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: "jekyll/minima"
+remote_theme: "jekyll/minima@2.5-stable"
 
 title: League Student Portfolio
 
@@ -15,8 +15,6 @@ author:
 
 plugins:
   - jekyll-remote-theme
-
-
 
 minima:
 
