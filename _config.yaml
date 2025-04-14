@@ -1,6 +1,11 @@
 #theme: jekyll-theme-minimal
 remote_theme: "jekyll/minima@2.5-stable"
 
+# Note, we are using version 2.5, so you shoudl 
+# read these instuctions, not the ones at the HEAD of the
+# master branch
+# https://github.com/jekyll/minima/blob/2.5-stable/README.md
+
 title: League Student Portfolio
 
 description: >
@@ -21,7 +26,7 @@ minima:
   # If you don't define the nav pages here, the
   # default is to use  all of the pages.
 
-  nav_pages:
+  header_pages:
   - about.md
   - howto.md
 
